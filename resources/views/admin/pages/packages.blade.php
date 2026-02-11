@@ -190,45 +190,7 @@
 
 
         </div>
-        <script>
-            document.addEventListener('DOMContentLoaded', function() {
-                const mainSearchInput = document.getElementById('mainSearchInput');
-                const searchModalBackdrop = document.getElementById('searchModalBackdrop');
-                const closeModal = document.getElementById('closeModal');
-                const modalSearchInput = document.getElementById('modalSearchInput');
+       
 
-                mainSearchInput.addEventListener('click', function() {
-                    searchModalBackdrop.classList.add('active');
-                    setTimeout(() => {
-                        modalSearchInput.focus();
-                    }, 100);
-                });
-
-                closeModal.addEventListener('click', function() {
-                    searchModalBackdrop.classList.remove('active');
-                });
-
-                searchModalBackdrop.addEventListener('click', function(e) {
-                    if (e.target === searchModalBackdrop) {
-                        searchModalBackdrop.classList.remove('active');
-                    }
-                });
-
-                document.addEventListener('keydown', function(e) {
-                    if (e.key === 'Escape' && searchModalBackdrop.classList.contains('active')) {
-                        searchModalBackdrop.classList.remove('active');
-                    }
-                });
-
-                const destinationItems = document.querySelectorAll('.destination-item');
-                destinationItems.forEach(item => {
-                    item.addEventListener('click', function() {
-                        const countryName = this.querySelector('.destination-name').textContent;
-                        console.log('Selected:', countryName);
-                        searchModalBackdrop.classList.remove('active');
-                    });
-                });
-            });
-        </script>
     </div>
 @endsection

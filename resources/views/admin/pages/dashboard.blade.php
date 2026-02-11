@@ -6,7 +6,7 @@
 
 
         <div class="d-flex gap-4 align-items-center mb-4 stats-header">
-            <h2 class="text-white mb-0">Statistics</h2>
+            <h2 class=" mb-0">Statistics</h2>
             <div class="date-picker-wrapper">
                 <button class="btn date-dropdown" type="button" id="dateRangeBtn">
                     <span id="selectedDateRange">Feb 5, 2026 - Feb 5, 2026</span>
@@ -118,7 +118,7 @@
 
 
         <div class="stats-overview-container">
-            <h5 class="text-white mb-4 stats-overview-title">Stats Overview</h5>
+            <h5 class=" mb-4 stats-overview-title">Stats Overview</h5>
 
             <div class="row g-3 mb-3">
                 <div class="col-md-4">
@@ -126,7 +126,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">All Bundles Amount</p>
-                                <h3 class="text-white mb-0 stat-card-value">$147.82</h3>
+                                <h3 class=" mb-0 stat-card-value">$147.82</h3>
                             </div>
                             <div class="icon-wrapper icon-red">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -146,7 +146,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Dealer Sale Amount</p>
-                                <h3 class="text-white mb-0 stat-card-value">$5.88</h3>
+                                <h3 class=" mb-0 stat-card-value">$5.88</h3>
                             </div>
                             <div class="icon-wrapper icon-blue">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -164,7 +164,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Dealer Profit</p>
-                                <h3 class="text-white mb-0 stat-card-value">$0.35</h3>
+                                <h3 class=" mb-0 stat-card-value">$0.35</h3>
                             </div>
                             <div class="icon-wrapper icon-green">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -184,7 +184,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Bundle Count</p>
-                                <h3 class="text-white mb-0 stat-card-value">33</h3>
+                                <h3 class=" mb-0 stat-card-value">33</h3>
                             </div>
                             <div class="icon-wrapper icon-yellow">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -202,7 +202,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Dealer Bundle Count</p>
-                                <h3 class="text-white mb-0 stat-card-value">3</h3>
+                                <h3 class=" mb-0 stat-card-value">3</h3>
                             </div>
                             <div class="icon-wrapper icon-purple">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -222,7 +222,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">eSIM Sold</p>
-                                <h3 class="text-white mb-0 stat-card-value">20</h3>
+                                <h3 class=" mb-0 stat-card-value">20</h3>
                             </div>
                             <div class="icon-wrapper icon-pink">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -244,7 +244,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Dealer eSIM Sold</p>
-                                <h3 class="text-white mb-0 stat-card-value">2</h3>
+                                <h3 class=" mb-0 stat-card-value">2</h3>
                             </div>
                             <div class="icon-wrapper icon-lavender">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -264,7 +264,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Wallet Refill</p>
-                                <h3 class="text-white mb-0 stat-card-value">$0</h3>
+                                <h3 class=" mb-0 stat-card-value">$0</h3>
                             </div>
                             <div class="icon-wrapper icon-orange">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -277,7 +277,7 @@
                     </div>
                 </div>
             </div>
-            <h5 class="text-white mb-3 mt-3 stats-overview-title">Summary Cards</h5>
+            <h5 class=" mb-3 mt-3 stats-overview-title">Summary Cards</h5>
 
             <div class="row g-3 mb-3">
                 <div class="col-md-4">
@@ -285,7 +285,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Balance</p>
-                                <h3 class="text-white mb-0 stat-card-value">$147.82</h3>
+                                <h3 class=" mb-0 stat-card-value">$147.82</h3>
                             </div>
                             <div class="icon-wrapper icon-red">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -305,7 +305,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Bundle Sold</p>
-                                <h3 class="text-white mb-0 stat-card-value">$5.88</h3>
+                                <h3 class=" mb-0 stat-card-value">$5.88</h3>
                             </div>
                             <div class="icon-wrapper icon-blue">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -323,7 +323,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">eSIM Sold</p>
-                                <h3 class="text-white mb-0 stat-card-value">$0.35</h3>
+                                <h3 class=" mb-0 stat-card-value">$0.35</h3>
                             </div>
                             <div class="icon-wrapper icon-green">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -336,7 +336,7 @@
                     </div>
                 </div>
             </div>
-            <h5 class="text-white mb-3 mt-3 stats-overview-title">All Time Statistics</h5>
+            <h5 class=" mb-3 mt-3 stats-overview-title">All Time Statistics</h5>
 
             <div class="row g-3 mb-3">
                 <div class="col-md-4">
@@ -346,7 +346,7 @@
                                 <p class="text-secondary stat-card-label">Total Wallet Refill
 
                                 </p>
-                                <h3 class="text-white mb-0 stat-card-value">$147.82</h3>
+                                <h3 class=" mb-0 stat-card-value">$147.82</h3>
                             </div>
                             <div class="icon-wrapper icon-red">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -368,7 +368,7 @@
                                 <p class="text-secondary stat-card-label">Total Bundles Sold
 
                                 </p>
-                                <h3 class="text-white mb-0 stat-card-value">$5.88</h3>
+                                <h3 class=" mb-0 stat-card-value">$5.88</h3>
                             </div>
                             <div class="icon-wrapper icon-blue">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -388,7 +388,7 @@
                                 <p class="text-secondary stat-card-label">Total eSIM Sold
 
                                 </p>
-                                <h3 class="text-white mb-0 stat-card-value">$0.35</h3>
+                                <h3 class=" mb-0 stat-card-value">$0.35</h3>
                             </div>
                             <div class="icon-wrapper icon-green">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -409,7 +409,7 @@
                                 <p class="text-secondary stat-card-label">Total Dealers
 
                                 </p>
-                                <h3 class="text-white mb-0 stat-card-value">$147.82</h3>
+                                <h3 class=" mb-0 stat-card-value">$147.82</h3>
                             </div>
                             <div class="icon-wrapper icon-red">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -429,7 +429,7 @@
                         <div class="d-flex justify-content-between align-items-start">
                             <div>
                                 <p class="text-secondary stat-card-label">Dealer Sales</p>
-                                <h3 class="text-white mb-0 stat-card-value">$5.88</h3>
+                                <h3 class=" mb-0 stat-card-value">$5.88</h3>
                             </div>
                             <div class="icon-wrapper icon-blue">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
@@ -449,7 +449,7 @@
                                 <p class="text-secondary stat-card-label">Dealer Profit
 
                                 </p>
-                                <h3 class="text-white mb-0 stat-card-value">$0.35</h3>
+                                <h3 class=" mb-0 stat-card-value">$0.35</h3>
                             </div>
                             <div class="icon-wrapper icon-green">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
