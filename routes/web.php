@@ -51,3 +51,6 @@ Route::get('/admin/credits', function () {
 Route::get('/admin/my-esim', function () {
     return view('admin.pages.my-esim');
 })->name('admin.my-esim');
+Route::get('/admin/single-esim', function () {
+    return view('admin.pages.single-esim');
+})->name('admin.single-esim');
